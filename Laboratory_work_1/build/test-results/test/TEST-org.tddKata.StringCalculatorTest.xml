@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.tddKata.StringCalculatorTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2022-09-20T08:05:27" hostname="DESKTOP-1SQT52L" time="0.028">
+  <properties/>
+  <testcase name="shouldFailOnInvalidStringStructure()" classname="org.tddKata.StringCalculatorTest" time="0.013"/>
+  <testcase name="shouldIgnoreMoreThanThousand()" classname="org.tddKata.StringCalculatorTest" time="0.003"/>
+  <testcase name="shouldReturnNegativeNumbersList()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldAcceptVariableDelimiter()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldFailOnRedundantDelimiter()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldAcceptTwoNumbers()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldFailOnUnrepeatableDelimiter()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldFailOnRedundantComma()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldPassWithNewlineAndComma()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldAcceptMoreNumbers()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldReturnZero()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldAcceptOneNumber()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldAcceptMoreDelimiters()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldPassWithNewline()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldFailOnMismatchingDelimiters()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldFailOnRedundantNewline()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldAcceptMoreWideDelimiters()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldAcceptOneDelimiter()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldAcceptTwoDelimiters()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <testcase name="shouldFailOnNegativeNumbers()" classname="org.tddKata.StringCalculatorTest" time="0.001"/>
+  <testcase name="shouldAcceptMinusAsDelimiter()" classname="org.tddKata.StringCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
