@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.mathobjects.ImmutableMatrixTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-10-11T08:49:14" hostname="DESKTOP-1SQT52L" time="0.043">
+  <properties/>
+  <testcase name="shouldFailOnInvalidBoundsInGetColumn()" classname="org.mathobjects.ImmutableMatrixTest" time="0.015"/>
+  <testcase name="shouldFailOnSetElement()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldFailOnSetColumn()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldDenyNegativeDimension()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldCreateFromDiagonal()" classname="org.mathobjects.ImmutableMatrixTest" time="0.013"/>
+  <testcase name="shouldReturnSameColumn()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldMultiply()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldFailOnInvalidBoundsInGetElement()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldCopyFromImmutable()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldHaveTheSameReferencesWhenCopyingFromImmutable()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <testcase name="shouldCreateEmpty()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <testcase name="shouldFailOnSetRow()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldCopyFromMutable()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldReturnSameElement()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <testcase name="shouldFailOnNonCompatibleMatrices()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <testcase name="shouldCreateWithDefinedBounds()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <testcase name="shouldCreateFromArray()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <testcase name="shouldFailOnInvalidBoundsInGetRow()" classname="org.mathobjects.ImmutableMatrixTest" time="0.001"/>
+  <testcase name="shouldReturnSameRow()" classname="org.mathobjects.ImmutableMatrixTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
